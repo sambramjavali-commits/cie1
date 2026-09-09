@@ -5,5 +5,5 @@ print("intial amount:",initialbalance)
 print("amount deposited",depositamount)
 print("total amount:",initialbalance+depositamount)
 print("AFTER WITHDRAWAL THE TOTAL amount:",initialbalance+depositamount-withdrawamount)        
-print("the total amount after withdraw",nitialbalance+depositamount-withdrawamt)                  
+print("the total amount after withdraw",initialbalance+depositamount-withdrawamt)                  
                   
